@@ -1,4 +1,4 @@
-package com.darrenforsythe.boot.defaultbootsetup;
+package com.darrenforsythe.boot.caching;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
