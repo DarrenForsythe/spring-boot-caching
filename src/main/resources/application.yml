@@ -3,3 +3,9 @@ spring:
     name: cache-example
   cache:
     type: none
+    
+debug: true
+
+management:
+  security:
+    enabled: false
